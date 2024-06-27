@@ -1,3 +1,3 @@
 #Test
 
-Learning Git.
+Learning Git and Github.
